@@ -1,0 +1,19 @@
+h1{
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+p1, p2, p3{
+  font-family:Helvetica;
+  font-weight: bold;
+  color: blue;
+}
